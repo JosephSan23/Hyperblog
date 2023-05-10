@@ -43,6 +43,9 @@ body{
     padding: 1em;
     background: white;
 }
+#equipo {
+    width: 100%;
+}
 
 #footer {
     background: #4e6950;
