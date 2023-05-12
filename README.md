@@ -15,4 +15,6 @@ Un blog increible para el curso de Git y Github de Platzi 💚
 
 *Las personalidades multiples de Freddy
 
+*Creado por el incrible platzi team
+
 Como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca no te lo tomes en serio y mejor ve al curso.
