@@ -17,4 +17,6 @@ Un blog increible para el curso de Git y Github de Platzi 💚
 
 *Creado por el incrible platzi team
 
+*Incluye ejemplo0s en windows linux y Mac
+
 Como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca no te lo tomes en serio y mejor ve al curso.
